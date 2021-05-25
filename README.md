@@ -34,6 +34,15 @@ Line 14:
     if ! grep -qxFe "$i" /path/to/filelist.txt; then
 ```
 
+## Running script
+
+```
+chmod +x prune.sh
+./prune.sh
+```
+
+Then you simply restart your server. 
+
 
 
 
