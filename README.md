@@ -40,9 +40,20 @@ Line 14:
 chmod +x prune.sh
 ./prune.sh
 ```
-
 Then you simply restart your server. 
 
+
+## CRON implementation
+
+You can easily implement this script with CRONS and run them periodicaly 
+
+__YOU NED TO PROVIDE FULL PATHS, NOT RELATIVE__
+
+Example: This script will run every monday at 5 AM
+
+```
+0 5 * * 1 /path/to/prune.sh
+```
 
 
 
