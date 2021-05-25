@@ -6,7 +6,7 @@ It's only question of time, while all your elytras will be found in END and you 
 
 This script keeps 1000x1000 area around center island (because of XP farms and other custom builds)
 
-![Prune area](https://github.com/eyeskiller/minecraft-world-the-end-prune/blob/master/img/endprune.png?raw=true)
+![Prune area](https://github.com/eyeskiller/minecraft-world-the-end-prune/blob/main/img/endprune.png)
 
 *Thanks for coordinates and image: https://xisumavoid.com/pruneendchunks*
 
